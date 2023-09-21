@@ -1,0 +1,14 @@
+C:\Users\Lucas.bronegardlofs\Documents\programmering\fightSIM\fightSIM\bin\Debug\net7.0\fightSIM.exe
+C:\Users\Lucas.bronegardlofs\Documents\programmering\fightSIM\fightSIM\bin\Debug\net7.0\fightSIM.deps.json
+C:\Users\Lucas.bronegardlofs\Documents\programmering\fightSIM\fightSIM\bin\Debug\net7.0\fightSIM.runtimeconfig.json
+C:\Users\Lucas.bronegardlofs\Documents\programmering\fightSIM\fightSIM\bin\Debug\net7.0\fightSIM.dll
+C:\Users\Lucas.bronegardlofs\Documents\programmering\fightSIM\fightSIM\bin\Debug\net7.0\fightSIM.pdb
+C:\Users\Lucas.bronegardlofs\Documents\programmering\fightSIM\fightSIM\obj\Debug\net7.0\fightSIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas.bronegardlofs\Documents\programmering\fightSIM\fightSIM\obj\Debug\net7.0\fightSIM.AssemblyInfoInputs.cache
+C:\Users\Lucas.bronegardlofs\Documents\programmering\fightSIM\fightSIM\obj\Debug\net7.0\fightSIM.AssemblyInfo.cs
+C:\Users\Lucas.bronegardlofs\Documents\programmering\fightSIM\fightSIM\obj\Debug\net7.0\fightSIM.csproj.CoreCompileInputs.cache
+C:\Users\Lucas.bronegardlofs\Documents\programmering\fightSIM\fightSIM\obj\Debug\net7.0\fightSIM.dll
+C:\Users\Lucas.bronegardlofs\Documents\programmering\fightSIM\fightSIM\obj\Debug\net7.0\refint\fightSIM.dll
+C:\Users\Lucas.bronegardlofs\Documents\programmering\fightSIM\fightSIM\obj\Debug\net7.0\fightSIM.pdb
+C:\Users\Lucas.bronegardlofs\Documents\programmering\fightSIM\fightSIM\obj\Debug\net7.0\fightSIM.genruntimeconfig.cache
+C:\Users\Lucas.bronegardlofs\Documents\programmering\fightSIM\fightSIM\obj\Debug\net7.0\ref\fightSIM.dll
