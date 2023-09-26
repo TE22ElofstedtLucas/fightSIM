@@ -1,23 +1,18 @@
-﻿// SLUMP
+﻿using System;
+
+int aHp = 100;
+int bHp = 100;
+
+string k1Name = "A";
+string k2Name = "B";
+
 Random generator = new Random();
 
-int slumptal = generator.Next(101);
-
-Console.WriteLine(slumptal);
-
-
-// WHILE-LOOP
-
-
-int tal = 100;
-
-while (tal > 0)
+while (aHp > 0 && bHp > 0)
 {
-    Console.WriteLine(tal);
-    tal--;
+    Console.WriteLine("\n-----===== NY RUNDA =====-----");
+    Console.WriteLine($"{k1Name}: {aHp}  {k2Name}: {bHp}\n");
+
 }
 
-Console.WriteLine("FÄRDIG");
-
-
-Console.ReadLine();
+// WHILE-LOOP
